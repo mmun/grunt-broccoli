@@ -20,5 +20,8 @@
     "rsvp": "~3.0.6",
     "ncp": "~0.5.0",
     "broccoli-merge-trees": "~0.1.0"
+  },
+  "devDependencies": {
+    "rimraf": "~2.2.6"
   }
 }
